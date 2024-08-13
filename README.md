@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# Movies Recommendation System
 
 This repository contains a machine learning model for recommending movies based on user preferences. The model utilizes textual features from movie metadata to provide similar movie suggestions.
 
